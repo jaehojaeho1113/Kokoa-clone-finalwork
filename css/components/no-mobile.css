@@ -1,12 +1,13 @@
 #no-mobile {
   position: absolute;
   z-index: 99;
-  height: 200vh;
-  width: 200vh;
+  height: 250vh;
+  width: 250vh;
   background-color: #101032;
   z-index: 33;
   display: flex;
   top: 0;
+  right: 0;
   justify-content: center;
   align-items: center;
   font-size: 40px;
